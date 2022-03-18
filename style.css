@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(197, 74, 121);
+  }
+
+fieldset {
+    background-color: rgba(236, 241, 228, 0.158);
+    height: min-content;
+    width: min-content;
+    margin-top: 12vw;
+    margin-left: 35vw;
+  }
+
+div {
+    font-size: 40px;
+    text-align: center;
+}
